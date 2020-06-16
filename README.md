@@ -1,2 +1,2 @@
 # Vance-Sperry
-Marketing and financial analysis
+Marketing and Financial Analysis
